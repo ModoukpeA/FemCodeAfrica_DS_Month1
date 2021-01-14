@@ -1,1 +1,1 @@
-# FemCodeAfrica_DS_Month2
+# FemCodeAfrica Training || Python for Data Science
